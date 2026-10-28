@@ -27,18 +27,24 @@ The user must approve testing actions.
 
 ## How to Run
 
-Create and activate a Python virtual environment:
+Create a Python virtual environment:
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
-Install Python dependencies:
+Install the dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
-Run the Premium UI:
+Run the final Premium UI:
 
+```bash
 python3 app/premium_ui.py
+```
 
 ## Important
 
