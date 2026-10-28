@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+logs/
+reports/
+scans/
+data/
+*.backup
+*_backup*
